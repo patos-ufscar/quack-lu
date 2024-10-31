@@ -12,7 +12,7 @@ Durante as aulas, vamos cobrir alguns conceitos importantes, como:
 
 - Subir e gerenciar infraestrutura na Magalu Cloud usando Terraform;
 - Subir um cluster de kubernetes que vai rodar nossa aplicação;
-- Criar uma aplicação simples em Golang que vai ser integrada com um banco de dados Mysql e subi-la no cluster de kubernetes.
+- Criar uma aplicação simples em Golang que vai ser integrada com um banco de dados Mysql/Blob Storage e subi-la em um cluster de kubernetes.
 
 # A aplicação
 
