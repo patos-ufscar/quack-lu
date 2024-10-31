@@ -15,7 +15,6 @@ Durante as aulas, vamos cobrir alguns conceitos importantes, como:
 - Criar uma aplicação em Golang que vai ser integrada com um banco de dados Mysql/Blob Storage e subi-la em um cluster de kubernetes.
 - Documentação da aplicação usando OpenAPI;
 
-
 # A aplicação
 
 Nos queremos construir um sistema de compartilhamentos de arquivos distribuído. A ideia é que usuários possam fazer upload de arquivos e imagens e compartilhar com seus amigos do patos.dev.
