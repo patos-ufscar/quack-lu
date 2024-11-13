@@ -35,3 +35,4 @@ Além das aulas conceituais, pretendemos criar algumas aplicações que usam ess
 - Conversos de videos para gif
 - Criar uma alexa usando embarcados
 - Criar um jogo multiplayer
+- Compartilhador de eventos entre todas universidades do Brasil.
