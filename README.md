@@ -8,7 +8,7 @@ Esse projeto pertence a uma série de aulas, entre uma parceria firmada entre n�
 
 # Principais conceitos
 
-Essa aula, seria um conjunto de conceitos que são essenciais para o desenvolvimento de uma aplicação que funciona em produção, pode servir milhares de usuários e que seja escalável. Alguns dos conceitos que vamos abordar são:
+Essa aula, contém um conjunto de conceitos que são essenciais para o desenvolvimento de uma aplicação que funciona em produção, pode servir milhares de usuários e é altamente escalável. Alguns conceitos que vamos abordar são:
 
 - Single server
 - Banco de dados
@@ -30,9 +30,13 @@ Todo esse conteúdo pode ser encontrado no livro [System design Interview - Alex
 
 # Aplicação
 
-Além das aulas conceituais, pretendemos criar algumas aplicações que usam esses conceitos.
+Além das aulas conceituais, pretendemos criar algumas aplicações que usam esses conceitos. Dentre elas:
 
 - Conversos de videos para gif
 - Criar uma alexa usando embarcados
 - Criar um jogo multiplayer
 - Compartilhador de eventos entre todas universidades do Brasil.
+
+# Organização
+
+Internamente, pretendemos nos organizar em equipes com membros de diferentes níveis de conhecimento. Assim, todos podem aprender e ensinar ao mesmo tempo. A ideia é que cada equipe tenha um líder, que será responsável por organizar as reuniões, definir as tarefas e ajudar os membros da equipe.
